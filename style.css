@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+#image{
+    border: solid antiquewhite 5px;
+    border-radius: 9px;
+    padding: 20px;
+    width: 200½;
+    height: 200%;
+}
+    
+.text{
+font-family: 'Libre Baskerville', serif;
+color: antiquewhite;
+font-weight: 600;
+}
+.foto{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;   
+    text-align: center;
+   
+    
+    
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
